@@ -35,7 +35,7 @@ username_msg            Username:
 password_msg            Password:
 
 # welcome message
-#welcome_x              	50%
+welcome_x              	810
 #welcome_y              	22
 #welcome_font           	Sans:size=10:bold:dpi=96
 #welcome_color          	#000000
